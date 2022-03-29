@@ -74,7 +74,7 @@ Before checking the solution, try copy-pasting your code into this repl:
 
 This repl includes my testing code that will check if your code meets this assignment's objectives. 
 
-
+#i think i am learning how to do this but still have no clue what im doing 
 
 
 # Solution
