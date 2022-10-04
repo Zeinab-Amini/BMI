@@ -1,3 +1,9 @@
+In this project it will first ask for your height then your weight. 
+With those two elemts, it will calculate your BMI by dividing your weight from your height. 
+Then have an exponent of two and round it.
+Then the rest are if statements to print your BMI and your situation. 
+
+
 ## BMI Calculator 2.0
 
 # UPDATE
